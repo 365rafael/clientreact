@@ -1,3 +1,18 @@
+# Cliente React
+
+Aplicação para consumir a api criada em .NET https://github.com/365rafael/AlunosApi
+
+## Recursos aplicados
+
+- Axios
+- JWT Token
+- React Router Dom
+- React Icons
+
+## Captura de tela
+
+https://user-images.githubusercontent.com/97065934/224325128-52fb2a53-ad06-4d00-88c0-636975f01692.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
